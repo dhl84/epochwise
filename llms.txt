@@ -1,0 +1,46 @@
+# EpochWise: Witness Real History
+
+> A history app for learning: stand at real places at real moments, from Stonehenge and 1066 to the Moon landing. 45 scenes, most on the real land, under the sky computed for that date and place. Hear real words from the sources, read by a computer-generated voice. A label always says what is real, what is rebuilt and where historians disagree. You watch from a safe distance. Four reading depths. For ages 10 and up. No ads, no chat, no accounts, no in-app purchases and no personal data collected.
+
+- Price: USD 3.99 in the US store. The store shows the price for your country.
+- Headset: Meta Quest 3
+- Ages: For ages 10 and up.
+- Where it is sold: United Kingdom only
+- Internet: Not required to use the app
+- Mixed reality: No. The app is fully virtual.
+- Controls: Meta Quest Touch controllers
+- Players: Single player
+- Comfort: Comfortable
+- Language: English (UK)
+- Ads, chat and in-app purchases: None. The app collects no personal data.
+- Developer: dav3studios
+
+## Features
+
+- 45 scenes from the Stone Age to 1989, each 6 to 9 minutes long
+- Most scenes stand on the real land, made from survey data
+- The sky, the Sun, the Moon and the stars computed for each date and place
+- Real words from the sources, read by a computer-generated British voice, with subtitles
+- Honesty labels on every scene, and "Historians disagree" where they do
+- A short note before every scene, with "Read as text instead" and "Leave"
+- "Leave scene" and "Step back" always in view
+- Four reading depths, from Quick Look to Expert
+- The Timeline: put events in order and see what led to each scene
+- Questions for grown-ups to talk about, for each finished scene
+- No ads, no chat, no accounts, no in-app purchases and no personal data collected
+
+## Links
+
+- [Meta Horizon Store page](https://www.meta.com/experiences/1422847840902472/): buy and install EpochWise
+- [Home](https://dhl84.github.io/epochwise/)
+- [Privacy policy](https://dhl84.github.io/epochwise/privacy.html)
+- [Credits](https://dhl84.github.io/epochwise/credits.html)
+- [Help and support](https://dhl84.github.io/epochwise/support.html)
+- [Terms of use](https://dhl84.github.io/epochwise/terms.html)
+
+## More from dav3studios
+
+- [SpaceWise](https://dhl84.github.io/spacewise/): The real solar system at its true size and in true time, with eight narrated journeys.
+- [BodyWise](https://dhl84.github.io/bodywise/): A ride through the real human body, with blood cells at their real size.
+- [BeakerWise](https://dhl84.github.io/beakerwise/): 104 science experiments in biology, chemistry and physics on a virtual lab bench.
+- [GambitWise](https://dhl84.github.io/gambitwise/): Learn chess and Go one small step at a time, with a spoken coach. Free.
