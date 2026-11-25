@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://dhl84.github.io/epochwise/</loc></url>
-  <url><loc>https://dhl84.github.io/epochwise/privacy.html</loc></url>
-  <url><loc>https://dhl84.github.io/epochwise/credits.html</loc></url>
-  <url><loc>https://dhl84.github.io/epochwise/support.html</loc></url>
-  <url><loc>https://dhl84.github.io/epochwise/terms.html</loc></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url><loc>https://dhl84.github.io/epochwise/</loc><lastmod>2026-11-25</lastmod><image:image><image:loc>https://dhl84.github.io/epochwise/pictures/cover.png</image:loc></image:image><image:image><image:loc>https://dhl84.github.io/epochwise/pictures/1.png</image:loc></image:image><image:image><image:loc>https://dhl84.github.io/epochwise/pictures/2.png</image:loc></image:image><image:image><image:loc>https://dhl84.github.io/epochwise/pictures/3.png</image:loc></image:image><video:video><video:thumbnail_loc>https://dhl84.github.io/epochwise/video/trailer.jpg</video:thumbnail_loc><video:title>EpochWise: Witness Real History trailer</video:title><video:description>A history app for learning: stand at real places at real moments, from Stonehenge and 1066 to the Moon landing. 45 scenes, most on the real land, under the sky computed for that date and place. Hear real words from the sources, read by a computer-generated voice. A label always says what is real, what is rebuilt and where historians disagree. You watch from a safe distance. Four reading depths. For ages 10 and up. No ads, no chat, no accounts and no in-app purchases.</video:description><video:content_loc>https://dhl84.github.io/epochwise/video/trailer.mp4</video:content_loc><video:duration>48</video:duration><video:publication_date>2026-11-25</video:publication_date><video:family_friendly>yes</video:family_friendly></video:video></url>
+  <url><loc>https://dhl84.github.io/epochwise/privacy.html</loc><lastmod>2026-11-25</lastmod></url>
+  <url><loc>https://dhl84.github.io/epochwise/credits.html</loc><lastmod>2026-11-25</lastmod></url>
+  <url><loc>https://dhl84.github.io/epochwise/support.html</loc><lastmod>2026-11-25</lastmod></url>
+  <url><loc>https://dhl84.github.io/epochwise/terms.html</loc><lastmod>2026-11-25</lastmod></url>
 </urlset>
